@@ -1,0 +1,11 @@
+.container {
+    justify-content: center;
+    width: 60%;
+    margin-top: 30px !important;
+    
+  }
+  @media only screen and (max-width: 770px) {
+    .container {
+      width: 100%;
+    }
+  }

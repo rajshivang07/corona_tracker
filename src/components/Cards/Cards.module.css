@@ -1,0 +1,29 @@
+.container {
+   
+    margin: 50px 5px;
+  }
+  
+.card {
+    margin: 2% 2% !important;
+  }
+  .confirmed {
+    border-bottom: 10px solid rgba(0, 0, 0, 0.5);
+  }
+  .confirmedTextColor{
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .recovered{
+    border-bottom: 10px solid rgba(0, 255, 0, 1);
+  }
+  .recoveredTextColor{
+    color: rgba(0, 255, 0, 1);
+  }
+  .deaths{
+    border-bottom: 10px solid rgba(255, 0, 0, 1);
+  }
+  .deathsTextColor{
+    color: rgba(255, 0, 0, 1);
+  }
+  .deathPercentage{
+    width: 10% !important;
+  }
