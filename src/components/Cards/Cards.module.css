@@ -2,6 +2,10 @@
    
     margin: 50px 5px;
   }
+
+.container > div {
+  align-items: flex-start;
+}
   
 .card {
     margin: 2% 2% !important;
