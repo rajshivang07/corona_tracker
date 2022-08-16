@@ -3,4 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a React Web Application which consists of Novel COVID-19 cases tracker, with interactive, dynamic and user friendly UI.
 
 API credits:- https://covid19.mathdro.id/api
-Web link:- https://rajshivang07.github.io/corona_tacker/
+
+
+Web link:- https://rajshivang07.github.io/corona_tracker/
